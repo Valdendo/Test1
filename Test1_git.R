@@ -6,4 +6,4 @@ head(data1)
 
 summary(data1)
 
-mean(data1$Sepal.Width)
+print(c(mean(data1$Sepal.Width),mean(data1$Sepal.Length)))
