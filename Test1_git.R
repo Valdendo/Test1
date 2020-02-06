@@ -6,4 +6,4 @@ head(data1)
 
 summary(data1)
 
-print(c(mean(data1$Sepal.Width),mean(data1$Sepal.Length)))
+print(c(mean(data1$Petal.Width),mean(data1$Sepal.Length)))
